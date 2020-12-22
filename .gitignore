@@ -3,3 +3,6 @@
 .*
 #排除所有的.class文件
 *.class
+#不排除.gitignore和app.class
+!.gitignore
+!app.class
